@@ -1,4 +1,4 @@
-### _🖖♂️Hi Jerson wei there 👋 Im a Frontend Developer from ShenZhen😬_
+### _🖖♂️Hi Jerson wei there 🎉 Im a Frontend Developer from ShenZhen💪_
 # __Welcome to my humble abode in the Digital World🤗__
 
 ```
@@ -17,7 +17,7 @@ class WhoAmI:
 ![t014b06049aba827c48](https://user-images.githubusercontent.com/102666924/164056080-8d8a559b-bc2f-42f8-ac8d-a403a5267dd6.jpg)
 
 
-## Finally here is my 😬TECK STACK😬
+## Finally here is my 🤓TECK STACK🤓
 ![vue](https://user-images.githubusercontent.com/102666924/164064855-d2bfcd3c-0d33-418d-83b2-f3075d0e0437.svg)
 ![vite](https://user-images.githubusercontent.com/102666924/164064839-1e14aa32-8b3e-4264-b082-2573d9786cd5.svg)
 ![ts](https://user-images.githubusercontent.com/102666924/164064817-4a0d9faf-91e4-490a-94bc-74c66efe85a3.svg)
