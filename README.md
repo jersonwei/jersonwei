@@ -1,4 +1,4 @@
-### _🏃‍♂️Hi Jerson wei there 👋 Im a Frontend Developer from ShenZhen😬_
+### _🖖♂️Hi Jerson wei there 👋 Im a Frontend Developer from ShenZhen😬_
 # __Welcome to my humble abode in the Digital World🤗__
 
 ```
@@ -13,7 +13,7 @@ class WhoAmI:
    			'Being up all Night chasing that ONE BUG...'
    		]
 ```
-## _🤩TaTaKai with me_ 🔭🔭🔭
+## _🏃‍🏃‍🏃‍TaTaKai with me_ 🏃‍🏃‍🏃‍
 ![t014b06049aba827c48](https://user-images.githubusercontent.com/102666924/164056080-8d8a559b-bc2f-42f8-ac8d-a403a5267dd6.jpg)
 
 
