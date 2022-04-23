@@ -27,6 +27,7 @@ class WhoAmI:
 ![git](https://user-images.githubusercontent.com/102666924/164064764-caef610d-692e-4470-958e-574639e924e8.svg)
 ![rollup](https://user-images.githubusercontent.com/102666924/164064800-44eb6a02-3abe-4e5a-b813-f5dfaa7a7b8f.svg)
 ![web](https://user-images.githubusercontent.com/102666924/164064865-1451a366-28f0-4f6c-a48f-cc7a9ea69746.svg)  <br />
+![npm](https://user-images.githubusercontent.com/102666924/164882852-cae016aa-ddfe-4347-9a12-9a4b905c5237.svg)
 
 ![less](https://user-images.githubusercontent.com/102666924/164064909-4c33856d-6ce6-4c9c-98d3-0266f7fd62d4.svg)
 ![css](https://user-images.githubusercontent.com/102666924/164064687-c2490e5e-5331-4638-96d4-6f989779170c.svg)
