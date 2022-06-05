@@ -14,7 +14,7 @@ class WhoAmI:
    		]
 ```
 
-## _🏃‍🏃‍🏃‍TaTaKai with me_ 🏃‍🏃‍🏃‍                          📫<span align='right'>[掘金小库](https://juejin.cn/column/7089050969648365581)</span>          
+## _🏃‍🏃‍🏃‍TaTaKai with me_ 🏃‍🏃‍🏃‍                          📫<span align='right'>[掘金小库](https://juejin.cn/column/7089050969648365581)</span>📫<span align='right'>[语雀](https://www.yuque.com/zhenyuanfengniweitaizi)</span>            
 ![t014b06049aba827c48](https://user-images.githubusercontent.com/102666924/164056080-8d8a559b-bc2f-42f8-ac8d-a403a5267dd6.jpg)
 
 
